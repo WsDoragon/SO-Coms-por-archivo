@@ -1,0 +1,33 @@
+Desde | Hasta | Mensaje
+From:@pedro | To:@jorge: holahola
+From:@jorge | To:@pedro: HOLAAAAAAAAAAAAAAA
+From:@luis | To:@pedro: Tanto tiempo
+From:@pedro | To:@luis: hola tanto tiempo
+From:@luis | To:@jorge: hola
+From:@pedro | To:@TEST: TESTTEST
+From:@pedro | To:@T2: TTT2
+From:@pedro | To:@T3: TTTT3
+From:@pedro | To:@T4: TTTT4
+From:@pedro | To:@T5: TTTTT5
+From:@pedro | To:@luis: A�OS SIN VERTE
+From:@luis | To:@pedro: ES VERDAD
+From:@pedro | To:@luis: como a estado la vida
+From:@luis | To:@pedro: todo bien, algo ocupado
+From:@pedro | To:@luis: me imagino
+From:@luis | To:@jorge: funciona el sistema de mensajeria?
+From:@jorge | To:@luis: saludos
+From:@jorge | To:@luis: si, se encuentra funcionando de forma basica
+From:@luis | To:@pedro: y tu? a que te dedicas ahora?
+From:@luis | To:@jorge: Perfecto
+From:@jorge | To:@pedro: La reunion se encuentra agendada para ma�ana
+From:@pedro | To:@jorge: se encuentra disponible?
+From:@pedro | To:@jorge: increible, nos vemos ma�ana
+From:@pedro | To:@luis: me encuentro en I+D
+From:@luis | To:@jorge: me desconecto
+
+
+From:@pedro | To:@marta | Buenas tardes
+From:@pedro | To:@marta | se encuentra disponible la coleccion de cartas?
+From:@pedro | To:@juan | ya consulte la disponibilidad de las cartas
+From:@marta | To:@pedro | se encuentra disponible su reserva
+From:@marta | To:@pedro | Puede pasar por la tienda retirarlas
