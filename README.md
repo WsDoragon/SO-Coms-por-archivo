@@ -21,3 +21,8 @@ Para ejecutar el proyecto se debe ejecutar el siguiente comando:
 
 ## Posibles adiciones
 - Libreria "Dotenv" para manejo de variables de entorno
+- Manejo de errores (usuarios ya en uso)
+- Fecha y hora de los mensajes
+- Base de datos para usuarios
+- Opciones (Ver mensajes, usuarios conectados, etc)
+- Sincronizacion de mensajes (Cada X mensajes se guarda en archivo)
